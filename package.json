@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://https://github.com/auleki/fire-numbers.git"
+    "url": "git+https://github.com/auleki/fire-numbers.git"
   },
   "author": "auleki",
   "license": "MIT"
