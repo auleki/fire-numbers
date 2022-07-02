@@ -1,6 +1,6 @@
 {
   "name": "fire-numbers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Formats numbers in a number of ways 😉",
   "main": "index.js",
   "scripts": {
