@@ -1,4 +1,4 @@
-const addCommas = require('./addCommas');
+const { addCommas } = require('./index');
 /**
  * 1. Are commas added
  * 2. Are decimal values retained accurately
